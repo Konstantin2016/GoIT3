@@ -1,3 +1,7 @@
-OfflineSalary
-.idea
-powerMath
+OfflineSalary/
+.idea/
+powerMath/
+out/
+.git/
+out/
+.gitignore
