@@ -1,6 +1,5 @@
 package module4.module4_1_1;
 
-
 class Rectang extends Area {
     private double rectanglLength;
     private double rectanglWidt;
@@ -11,6 +10,7 @@ class Rectang extends Area {
 
     @Override
     public double area () {
-        return rectanglLength*rectanglWidt;
+        return rectanglLength * rectanglWidt;
     }
+
 }
