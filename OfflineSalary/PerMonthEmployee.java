@@ -1,7 +1,15 @@
 package OfflineSalary;
 
-/**
- * Created by KSeredyuk on 06.06.2016.
- */
-public class PerMonthEmployee {
-}
+//public class PerMonthEmployee extends Employee{
+
+ /*   public void setSalary (){
+        this.salary=salary;
+    }
+*/
+   /* @Override
+    public double calcSalary() {
+        this.salary = 1020;
+        return salary;
+    }
+}*/
+//PerMonthEmployee (String na)
